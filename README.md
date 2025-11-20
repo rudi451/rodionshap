@@ -1,4 +1,4 @@
-## English  🌭
+## [English]  🌭
 
 # ⚠️ Old GitHub Account
 
@@ -18,7 +18,7 @@ Please visit my new GitHub account:
 
 Thank you for stopping by! 🙌
 
-## 🇩🇪 Deutsch 🌶
+## 🇩🇪 [Deutsch] 🌶
 
 # ⚠️ Alter GitHub-Account
 
